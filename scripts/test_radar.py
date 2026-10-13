@@ -1149,5 +1149,23 @@ class HelperTests(unittest.TestCase):
         self.assertNotIn("line\nbreak", query)
 
 
+class LanguageQuickstartsInSyncTests(unittest.TestCase):
+    ROOT = Path(__file__).resolve().parent.parent
+
+    def _quickstarts(self):
+        return sorted(p.name for p in (self.ROOT / "languages").glob("*.md") if p.name != "README.md")
+
+    def test_readme_states_the_number_of_quickstarts(self):
+        readme = (self.ROOT / "README.md").read_text(encoding="utf-8")
+        match = re.search(r"quickstarts for (\d+) languages", readme)
+        self.assertIsNotNone(match, "README.md no longer says 'quickstarts for N languages'")
+        self.assertEqual(int(match.group(1)), len(self._quickstarts()))
+
+    def test_every_quickstart_is_linked_from_languages_readme(self):
+        index = (self.ROOT / "languages" / "README.md").read_text(encoding="utf-8")
+        linked = set(re.findall(r"\]\(([^)#/]+\.md)\)", index))
+        self.assertEqual(sorted(set(self._quickstarts()) - linked), [])
+
+
 if __name__ == "__main__":
     unittest.main()
