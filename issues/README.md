@@ -1,6 +1,6 @@
 # Issue index
 
-**3319** open, unclaimed issues from **1159** active projects (1258 labeled for beginners). Updated 2026-10-14 11:01 UTC.
+**3360** open, unclaimed issues from **1161** active projects (1291 labeled for beginners). Updated 2026-10-14 21:32 UTC.
 
 Looking for a project rather than an issue? See the [projects directory](../projects/README.md).
 
@@ -8,23 +8,23 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Language | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [C++](by-language/cpp.md) | 342 | 108 | 98 |
-| [Go](by-language/go.md) | 328 | 78 | 79 |
-| [C#](by-language/csharp.md) | 302 | 84 | 85 |
-| [TypeScript](by-language/typescript.md) | 285 | 79 | 84 |
-| [Rust](by-language/rust.md) | 284 | 116 | 92 |
-| [Java](by-language/java.md) | 269 | 113 | 76 |
-| [Python](by-language/python.md) | 221 | 82 | 78 |
-| [Kotlin](by-language/kotlin.md) | 169 | 60 | 76 |
-| [C](by-language/c.md) | 154 | 39 | 62 |
-| [PHP](by-language/php.md) | 154 | 79 | 50 |
-| [JavaScript](by-language/javascript.md) | 142 | 61 | 60 |
-| [Shell](by-language/shell.md) | 125 | 65 | 52 |
+| [C++](by-language/cpp.md) | 341 | 108 | 99 |
+| [Go](by-language/go.md) | 335 | 81 | 80 |
+| [C#](by-language/csharp.md) | 306 | 91 | 85 |
+| [Rust](by-language/rust.md) | 296 | 116 | 90 |
+| [TypeScript](by-language/typescript.md) | 288 | 89 | 85 |
+| [Java](by-language/java.md) | 274 | 116 | 77 |
+| [Python](by-language/python.md) | 215 | 78 | 78 |
+| [Kotlin](by-language/kotlin.md) | 167 | 61 | 75 |
+| [PHP](by-language/php.md) | 160 | 84 | 53 |
+| [C](by-language/c.md) | 153 | 38 | 61 |
+| [JavaScript](by-language/javascript.md) | 144 | 64 | 59 |
+| [Shell](by-language/shell.md) | 125 | 64 | 52 |
 | [Swift](by-language/swift.md) | 99 | 46 | 54 |
-| [Ruby](by-language/ruby.md) | 82 | 58 | 30 |
-| [HTML](by-language/html.md) | 79 | 30 | 36 |
-| [Dart](by-language/dart.md) | 50 | 26 | 31 |
-| [Scala](by-language/scala.md) | 30 | 15 | 18 |
+| [Ruby](by-language/ruby.md) | 83 | 59 | 30 |
+| [HTML](by-language/html.md) | 78 | 30 | 36 |
+| [Dart](by-language/dart.md) | 51 | 27 | 31 |
+| [Scala](by-language/scala.md) | 41 | 20 | 18 |
 | [Lua](by-language/lua.md) | 30 | 15 | 18 |
 | [Julia](by-language/julia.md) | 29 | 19 | 14 |
 | [Vue](by-language/vue.md) | 28 | 18 | 10 |
@@ -43,17 +43,17 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Topic | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [Mobile and desktop apps](by-topic/mobile.md) | 586 | 202 | 201 |
-| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 482 | 188 | 136 |
-| [AI and machine learning](by-topic/ai-ml.md) | 395 | 146 | 128 |
-| [Developer tools](by-topic/devtools.md) | 359 | 143 | 142 |
-| [Data and databases](by-topic/data.md) | 295 | 143 | 90 |
-| [Web development](by-topic/web.md) | 252 | 104 | 105 |
-| [Security and privacy](by-topic/security.md) | 207 | 107 | 57 |
-| [Systems and embedded](by-topic/systems.md) | 187 | 91 | 49 |
-| [Games and graphics](by-topic/games-graphics.md) | 150 | 75 | 51 |
-| [Documentation and education](by-topic/docs-education.md) | 98 | 54 | 27 |
-| [Science and research](by-topic/science.md) | 59 | 37 | 19 |
-| [Finance and Web3](by-topic/finance-web3.md) | 50 | 19 | 14 |
+| [Mobile and desktop apps](by-topic/mobile.md) | 593 | 212 | 200 |
+| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 493 | 197 | 137 |
+| [AI and machine learning](by-topic/ai-ml.md) | 397 | 146 | 127 |
+| [Developer tools](by-topic/devtools.md) | 363 | 147 | 142 |
+| [Data and databases](by-topic/data.md) | 311 | 146 | 92 |
+| [Web development](by-topic/web.md) | 248 | 103 | 103 |
+| [Security and privacy](by-topic/security.md) | 208 | 109 | 56 |
+| [Systems and embedded](by-topic/systems.md) | 191 | 95 | 49 |
+| [Games and graphics](by-topic/games-graphics.md) | 153 | 78 | 51 |
+| [Documentation and education](by-topic/docs-education.md) | 98 | 55 | 27 |
+| [Science and research](by-topic/science.md) | 60 | 37 | 19 |
+| [Finance and Web3](by-topic/finance-web3.md) | 39 | 29 | 11 |
 | [Accessibility](by-topic/accessibility.md) | 13 | 6 | 7 |
 | [Robotics](by-topic/robotics.md) | 7 | 2 | 5 |
