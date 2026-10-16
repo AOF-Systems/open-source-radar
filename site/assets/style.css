@@ -298,6 +298,12 @@ a:hover { text-decoration-thickness: 2px; }
   text-underline-offset: 0.18em;
 }
 
+.reset:disabled {
+  opacity: 0.45;
+  cursor: default;
+  text-decoration: none;
+}
+
 @media (max-width: 72rem) {
   .filters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .field-search { grid-column: 1 / -1; }
